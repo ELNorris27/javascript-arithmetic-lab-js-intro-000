@@ -3,3 +3,4 @@ function add(a, b) {
   b === 2;
   a + b;
 }
+add();
